@@ -25,6 +25,10 @@
 		{
 			"Name": "JWT",
 			"Enabled": true
+		},
+		{
+			"Name": "PixelStreaming",
+			"Enabled": true
 		}
 	]
 }
